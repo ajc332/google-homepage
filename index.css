@@ -1,0 +1,104 @@
+#logo {
+  display: block;
+  text-align: -webkit-center;
+  padding-top: 175px;
+}
+
+#searchbar {
+  display: block;
+  text-align: -webkit-center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#searchbar input {
+  width: 551px;
+  height: 41px;
+  font-size: 16px;
+  border-style: solid;
+  border-width: thin;
+  border-color: gainsboro;
+  padding-left: 20px;
+}
+
+.navbar {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  word-spacing: 1.2em;
+  padding-top: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+.buttons {
+  text-align: -webkit-center;
+}
+
+.buttons input {
+  width: 130px;
+  height: 36px;
+  line-height: 27px;
+  font-size: 13px;
+  font-weight: bold;
+  background-color: hsla(0, 0%, 88%, 0.56);
+  color: #666;
+  margin-top: 10px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+#lucky {
+  padding-left: 16px;
+  padding-right: 125px;
+}
+
+.navbar a {
+    color: #222;
+    text-decoration: none;
+}
+
+.navbar1 {
+  float:left;
+  padding-left: 17px;
+}
+
+.navbar2 {
+  float: right;
+  padding-right: 17px;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  word-spacing: 1.8em;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-color: hsla(0, 0%, 88%, 0.56);
+}
+
+.footer1 {
+  float:left;
+  padding-left: 30px;
+}
+
+.footer2 {
+  float: right;
+  padding-right: 30px;
+}
+
+.footer a {
+  color: #666;
+  text-decoration: none;
+}
